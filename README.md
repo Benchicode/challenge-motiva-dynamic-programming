@@ -8,10 +8,10 @@ Priorização da manutenção das 197 escadas rolantes da Linha 4-Amarela (ViaQu
 
 | Nome | RM |
 |---|---|
-| - André Rosa Ferreira Filho - RM:567149 |
-| - Cainã Sandes Batista - RM:568571 |
-| - Michel Lima Benchimol - RM:567345 |
-| - Yuri Aroste Fukamachi - RM:567314 |
+| - André Rosa Ferreira Filho -  | RM:567149
+| - Cainã Sandes Batista -  | RM:568571
+| - Michel Lima Benchimol -  | RM:567345
+| - Yuri Aroste Fukamachi - | RM:567314 
 
 ## Estrutura do repositório
 
