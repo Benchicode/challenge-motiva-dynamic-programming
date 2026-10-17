@@ -1,0 +1,18 @@
+origem,destino,minutos,modo
+LUZ,REP,2,metrô
+REP,HIG,2,metrô
+HIG,PTA,2,metrô
+PTA,FRE,2,metrô
+FRE,FRA,2,metrô
+FRA,FAL,2,metrô
+FAL,PIN,2,metrô
+PIN,BUT,3,metrô
+BUT,MBI,3,metrô
+MBI,VSO,3,metrô
+VSO,TVS,4,a pé
+BASE,VSO,6,a pé
+BASE,TVS,5,a pé
+BASE,BUT,15,van
+BASE,PIN,22,van
+PIN,PTA,18,van
+PTA,LUZ,20,van
